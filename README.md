@@ -6,4 +6,5 @@ This is my first project, and the code is in its raw form. You can help by makin
 
 ## Author
 
-For any questions, please contact me at [rigiycot@gmail.com](mailto:rigiycot@gmail.com).
+For any questions, please contact me at [rigiycot@gmail.com]((https://mail.google.com/mail/u/0/#inbox)).
+
